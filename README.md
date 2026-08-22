@@ -8,7 +8,7 @@ This project presents an interactive **Budget Variance & Anomaly Detection Dashb
 
 # 📸 Dashboard Preview
 
-![Expense Anomaly & Budget Variance Dashboard](dashboard-preview.png)
+![Expense Anomaly & Budget Variance Dashboard](dashboard-preview(2).png)
 
 *Interactive Power BI dashboard showing budget vs actual variance, department-wise overspend, category/region trends, and flagged anomalies.*
 
